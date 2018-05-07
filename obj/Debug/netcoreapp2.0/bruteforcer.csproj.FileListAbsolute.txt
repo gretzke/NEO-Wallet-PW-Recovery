@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\bin\Debug\netcoreapp2.0\bruteforcer.deps.json
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\bin\Debug\netcoreapp2.0\bruteforcer.runtimeconfig.json
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\bin\Debug\netcoreapp2.0\bruteforcer.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\bin\Debug\netcoreapp2.0\bruteforcer.dll
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\bin\Debug\netcoreapp2.0\bruteforcer.pdb
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\obj\Debug\netcoreapp2.0\bruteforcer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\obj\Debug\netcoreapp2.0\bruteforcer.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\obj\Debug\netcoreapp2.0\bruteforcer.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\obj\Debug\netcoreapp2.0\bruteforcer.dll
+C:\Users\Daniel\Documents\Projekte\current\Decrypt\bruteforcer\obj\Debug\netcoreapp2.0\bruteforcer.pdb
